@@ -1,12 +1,18 @@
-# Aplikasi Pengambilan KRS
+<h1 align="center">Android Pengambilan KRS</h1>
+<p align="center">Aplikasi Pengambilan KRS Berbasis Android</p>
 
-# Kelompok03
-Kelompok 03 Mata Kuliah Mobile Programming
+## Jalankan Aplikasi
+1. Buka android studio, File > New > Project From Version Control > Github
+2. Masukkan url ``
+3. Biarkan sync gradle pake internet
 
-# Anggota Kelompok : 
-1. Umar Rahman Zidan (09031282227084)
-2. M. Azyumardi Azra (09031282227056)
-3. Onky Ardhillah (09031282227085)
-4. Bintang Ischa (09031282227077)
+## Screenshot
 
-~~~~~
+
+## Anggota Kelompok
+|Nim	          |Nama				                      |
+|---------------|---------------------------------|
+|09031282227084 |Umar Rahman Zidan		            |
+|09031282227056 |Muhammad Azyumardi Azra        	|
+|09031282227085 |Onky Ardhillah		                |
+|09031282227077 |Muhammad Bintang Ischa Athallah	|
