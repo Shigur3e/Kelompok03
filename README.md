@@ -1,10 +1,12 @@
+# Aplikasi Pengambilan KRS
+
 # Kelompok03
-yahalloo~ ini kelompok 03 Mata Kuliah Mobile Programing
+Kelompok 03 Mata Kuliah Mobile Programming
 
 # Anggota Kelompok : 
-1. Umar Rahman Zidan
-2. M. Azyumardi Azra
-3. Onky Ardhillah
-4. Bintang Ischa 
+1. Umar Rahman Zidan (09031282227084)
+2. M. Azyumardi Azra (09031282227056)
+3. Onky Ardhillah (09031282227085)
+4. Bintang Ischa (09031282227077)
 
 ~~~~~
